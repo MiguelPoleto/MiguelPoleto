@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">• Information System student <br>• Always looking for learning</p>
+<p align="left">• Information System student 3/8<br>• Always looking for learning</p>
 
 ###
 
