@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🚀 Building solutions, one line at a time<br>📚 Information System student 3/8<br>🎯 Exploring the art of problem-solving in code<br>🎲 I enjoy optimizing things that weren’t even slow</p>
+<p align="left">🚀 Building solutions, one line at a time<br>📚 Information System student 4/8<br>🎯 Exploring the art of problem-solving in code<br>🎲 I enjoy optimizing things that weren’t even slow</p>
 
 ###
 
