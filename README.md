@@ -1,4 +1,4 @@
-<h1 align="center">Cybersecurity & Blue Team | Secure Back-End Developer</h1>
+<h1 align="center">Cybersecurity & Blue Team</h1>
 
 ###
 
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">I am a cybersecurity-focused professional with practical experience in building secure and efficient systems. I specialize in secure coding, system hardening, safe data handling, and monitoring secure environments. My background in back-end development with Java (Spring Boot) and relational/non-relational databases strengthens my approach to creating resilient and secure applications.<br><br>I continuously improve my technical skills in cybersecurity, working with secure remote access, virtual environments, VPNs, SSH, and implementing measures to protect data integrity and system availability. I am motivated by challenges in the security domain and eager to contribute to the protection of critical systems and infrastructure.</p>
+<p align="left">I am a cybersecurity-focused professional with hands-on experience in building, securing, and monitoring systems. I specialize in secure coding practices, system hardening, data protection, and incident detection within secure environments.<br><br> My background includes back-end development with Java (Spring Boot), database management (relational and non-relational), and the creation of automation and security scripts using <b>Python</b> and <b>Bash</b>. I also work with Linux environments, VPNs, SSH, and secure remote access, implementing measures to ensure data integrity, confidentiality, and system availability to improve my technical skills in cybersecurity.<br><br> Driven by challenges in the cybersecurity field, I aim to continuously enhance my technical expertise and contribute to the defense and resilience of critical systems and infrastructures.</p>
 
 ###
 
