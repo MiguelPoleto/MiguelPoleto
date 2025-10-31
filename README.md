@@ -1,4 +1,4 @@
-<h1 align="center">Cybersecurity & Blue Team</h1>
+<h1 align="center">🛡️ Cybersecurity & Blue Team</h1>
 
 ###
 
@@ -13,6 +13,10 @@
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="center">🚀 Check out my main Cybersecurity labs and hands-on activities on <a href="https://www.linkedin.com/in/miguelpoleto" target="_blank">my LinkedIn</a>!</h3>
 
 ###
 
